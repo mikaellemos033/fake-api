@@ -1,0 +1,25 @@
+{
+  "agenda-abastecimento": [
+    {
+      "codigopontocaptura": "pc-1",
+      "codigocustodialogica": "custodia-1",
+      "diasemana": "terça",
+      "ativado": "sim",
+      "dtativacao": "2017-01-01"
+    },
+    {
+      "codigopontocaptura": "pc-2",
+      "codigocustodialogica": "custodia-2",
+      "diasemana": "quinta",
+      "ativado": "sim",
+      "dtativacao": "2017-02-01"
+    },
+    {
+      "codigopontocaptura": "pc-3",
+      "codigocustodialogica": "custodia-5",
+      "diasemana": "segunda",
+      "ativado": "sim",
+      "dtativacao": "2017-11-01"
+    }
+  ]
+}
